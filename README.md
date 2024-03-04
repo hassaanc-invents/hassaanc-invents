@@ -14,13 +14,9 @@
 
 - 📫 How to reach me **hassaanmalick2001@gmail.com**
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=hassaanc-invents&show_icons=true&locale=en&layout=compact"
-        alt="hassaanc-invents" /></p>
-
+<p>
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=hassaanc-invents&show_icons=true&locale=en"
-        alt="hassaanc-invents" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanc-invents&"
+        alt="hassaanc-invents" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanc-invents&"
         alt="hassaanc-invents" /></p>
