@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Hassaan Malick</h1>
-<h2 align="center">A passionate frontend React JS developer from Lahore.</h2>
+<h2 align="center">A passionate Fullstack JavaScript developer from Lahore.</h2>
 
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=hassaanc-invents&label=Profile%20views&color=0e75b6&style=flat"
         alt="Hassaan Malick" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently working on ReactJs/NestJs as **Fullstack JavaScript Developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hassaanc-invents](https://github.com/hassaanc-invents)
 
-- 💬 Ask me about **React, Php, MySql**
+- 💬 Ask me about **React, Nest, CrawleeJs, Puppeteer, Php, MySql**
 
 - 📫 How to reach me **hassaanmalick2001@gmail.com**
 
