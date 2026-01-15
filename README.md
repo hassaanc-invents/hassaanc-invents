@@ -13,10 +13,3 @@
 - 💬 Ask me about **React, Nest, CrawleeJs, Puppeteer, Php, MySql**
 
 - 📫 How to reach me **hassaanmalick2001@gmail.com**
-
-<p>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=hassaanc-invents&show_icons=true&locale=en"
-        alt="hassaanc-invents" />
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hassaanc-invents&"
-        alt="hassaanc-invents" /></p>
