@@ -6,7 +6,7 @@
         src="https://komarev.com/ghpvc/?username=hassaanc-invents&label=Profile%20views&color=0e75b6&style=flat"
         alt="Hassaan Malick" /> </p>
 
-- 🌱 I’m currently working on ReactJs/NestJs as **Fullstack JavaScript Developer.**
+- 🌱 I’m currently working on as **Lead Developer at Maintein.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hassaanc-invents](https://github.com/hassaanc-invents)
 
